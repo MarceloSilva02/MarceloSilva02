@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 Atualmente estou trabalhando em Business Intelligence na empresa Mobly S.A
 🌱 Atualmente estou aprendendo e me aprofundando em Machine Learning e Data Science
-<!--
+
 **MarceloSilva02/MarceloSilva02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
